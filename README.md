@@ -35,7 +35,7 @@ const rupesh = {
 };
 ```
 
-Full-stack Web and App developer specializing in React, React Native, Flutter, and TypeScript — with hands-on experience in cybersecurity, cloud infrastructure, and scalable backend systems. Competitive programmer with a Top 30 worldwide finish at TCS CodeVita Season 13.
+Full-stack and mobile developer specializing in React, React Native, Flutter, and TypeScript — with hands-on experience in cybersecurity, cloud infrastructure, and scalable backend systems. Competitive programmer with a Top 30 worldwide finish at TCS CodeVita Season 13.
 
 ---
 
@@ -184,8 +184,18 @@ Full-stack Web and App developer specializing in React, React Native, Flutter, a
 | B.Tech — Computer Science & Engineering | VIT-AP University | 2022–2026 | GPA 8.78 / 10 |
 | MPC (Maths, Physics, Chemistry) | Narayana Junior College | 2020–2022 | 95.1% |
 
-[![AWS Cloud](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/7a2b09dd-450f-467a-ad59-83c30eecc5ec/public_url)
-[![AWS AI](https://img.shields.io/badge/AWS-AI%20Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/ac00d91c-76a3-4f6c-91b5-3adaadbc8783/public_url)
+<div align="center">
+
+<a href="https://www.credly.com/badges/7a2b09dd-450f-467a-ad59-83c30eecc5ec/public_url">
+  <img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="110"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/ac00d91c-76a3-4f6c-91b5-3adaadbc8783/public_url">
+  <img src="https://images.credly.com/size/220x220/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI Practitioner" width="110"/>
+</a>
+
+</div>
+
 [![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Foundation-00B4D8?style=flat-square)](https://www.google.com)
 
 ---
