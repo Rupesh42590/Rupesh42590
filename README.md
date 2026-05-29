@@ -35,7 +35,7 @@ const rupesh = {
 };
 ```
 
-Full-stack and mobile developer specializing in React, React Native, Flutter, and TypeScript — with hands-on experience in cybersecurity, cloud infrastructure, and scalable backend systems. Competitive programmer with a Top 30 worldwide finish at TCS CodeVita Season 13.
+Full-stack Web and App developer specializing in React, React Native, Flutter, and TypeScript — with hands-on experience in cybersecurity, cloud infrastructure, and scalable backend systems. Competitive programmer with a Top 30 worldwide finish at TCS CodeVita Season 13.
 
 ---
 
