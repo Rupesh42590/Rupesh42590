@@ -184,8 +184,8 @@ Full-stack and mobile developer specializing in React, React Native, Flutter, an
 | B.Tech — Computer Science & Engineering | VIT-AP University | 2022–2026 | GPA 8.78 / 10 |
 | MPC (Maths, Physics, Chemistry) | Narayana Junior College | 2020–2022 | 95.1% |
 
-[![AWS Cloud](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
-[![AWS AI](https://img.shields.io/badge/AWS-AI%20Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
+[![AWS Cloud](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/7a2b09dd-450f-467a-ad59-83c30eecc5ec/public_url)
+[![AWS AI](https://img.shields.io/badge/AWS-AI%20Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/ac00d91c-76a3-4f6c-91b5-3adaadbc8783/public_url)
 [![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Foundation-00B4D8?style=flat-square)](https://www.google.com)
 
 ---
